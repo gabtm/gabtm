@@ -24,5 +24,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gabrieltmoraes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Toscano%20de%20Moraes-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/twscano/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-twscano_-blue?style=flat&logo=instagram"></a>
-<a href="mailto:gabriel_toscano@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabriel_toscano@outlook.com-blue?style=flat&logo=microsoft-outlook"></a>
+<a href="mailto:gabriel_toscano@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabriel__toscano@outlook.com-blue?style=flat&logo=microsoft-outlook"></a>
 </p>
